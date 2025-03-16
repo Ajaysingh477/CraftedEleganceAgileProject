@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Modern Comfort Sofa",
+        "description": "Elegant design meets ultimate comfort",
+        "price": 12999,
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
+        "category": "sofas"
+    },
+    {
+        "name": "Luxury Leather Sofa",
+        "description": "Premium leather with a sleek design",
+        "price": 24999,
+        "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5",
+        "category": "sofas"
+    },
+    {
+        "name": "Minimalist Fabric Sofa",
+        "description": "Simple yet stylish fabric sofa",
+        "price": 8999,
+        "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+        "category": "sofas"
+    },
+    {
+        "name": "Classic Chesterfield Sofa",
+        "description": "Timeless design with tufted leather",
+        "price": 34999,
+        "image": "https://images.unsplash.com/photo-1616627561839-074385245ff6",
+        "category": "sofas"
+    },
+    {
+        "name": "Sectional Sofa",
+        "description": "Spacious and modular for large living rooms",
+        "price": 45999,
+        "image": "https://images.unsplash.com/photo-1631679706909-1844bbd07221",
+        "category": "sofas"
+    },
+    {
+        "name": "Luxury King Bed",
+        "description": "Sleep in ultimate comfort",
+        "price": 22999,
+        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+        "category": "beds"
+    },
+    {
+        "name": "Queen Size Bed",
+        "description": "Elegant and spacious",
+        "price": 18999,
+        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013",
+        "category": "beds"
+    },
+    {
+        "name": "Minimalist Platform Bed",
+        "description": "Sleek and modern design",
+        "price": 15999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "beds"
+    },
+    {
+        "name": "Canopy Bed",
+        "description": "Romantic and luxurious",
+        "price": 32999,
+        "image": "https://images.unsplash.com/photo-1618221118493-9cfa1a1c00da",
+        "category": "beds"
+    },
+    {
+        "name": "Bunk Bed",
+        "description": "Perfect for kids' rooms",
+        "price": 12999,
+        "image": "https://images.unsplash.com/photo-1616627561839-074385245ff6",
+        "category": "beds"
+    },
+    {
+        "name": "Classic Dining Table",
+        "description": "Timeless elegance for your dining room",
+        "price": 8999,
+        "image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126",
+        "category": "tables"
+    },
+    {
+        "name": "Modern Glass Table",
+        "description": "Sleek and contemporary",
+        "price": 12999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "tables"
+    },
+    {
+        "name": "Rustic Wooden Table",
+        "description": "Perfect for a farmhouse look",
+        "price": 14999,
+        "image": "https://images.unsplash.com/photo-1616627561839-074385245ff6",
+        "category": "tables"
+    },
+    {
+        "name": "Extendable Dining Table",
+        "description": "Ideal for small spaces",
+        "price": 17999,
+        "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+        "category": "tables"
+    },
+    {
+        "name": "Outdoor Dining Table",
+        "description": "Durable and weather-resistant",
+        "price": 19999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "tables"
+    },
+    {
+        "name": "Artisan Wooden Chair",
+        "description": "Handcrafted excellence",
+        "price": 3999,
+        "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85",
+        "category": "chairs"
+    },
+    {
+        "name": "Modern Accent Chair",
+        "description": "Stylish and comfortable",
+        "price": 5999,
+        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013",
+        "category": "chairs"
+    },
+    {
+        "name": "Vintage Armchair",
+        "description": "Classic design with a retro feel",
+        "price": 7999,
+        "image": "https://images.unsplash.com/photo-1616627561839-074385245ff6",
+        "category": "chairs"
+    },
+    {
+        "name": "Ergonomic Office Chair",
+        "description": "Perfect for long work hours",
+        "price": 9999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "chairs"
+    },
+    {
+        "name": "Folding Chair",
+        "description": "Lightweight and portable",
+        "price": 1999,
+        "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+        "category": "chairs"
+    },
+    {
+        "name": "Minimalist Desk",
+        "description": "Sleek and functional",
+        "price": 6999,
+        "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd",
+        "category": "desks"
+    },
+    {
+        "name": "Executive Desk",
+        "description": "Spacious and elegant",
+        "price": 14999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "desks"
+    },
+    {
+        "name": "Standing Desk",
+        "description": "Adjustable height for ergonomic work",
+        "price": 19999,
+        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013",
+        "category": "desks"
+    },
+    {
+        "name": "Corner Desk",
+        "description": "Perfect for small spaces",
+        "price": 8999,
+        "image": "https://images.unsplash.com/photo-1616627561839-074385245ff6",
+        "category": "desks"
+    },
+    {
+        "name": "Gaming Desk",
+        "description": "Designed for gamers",
+        "price": 12999,
+        "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+        "category": "desks"
+    },
+    {
+        "name": "Rustic Wooden Shelf",
+        "description": "Perfect for your living room",
+        "price": 4999,
+        "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2",
+        "category": "shelves"
+    },
+    {
+        "name": "Floating Shelf",
+        "description": "Modern and space-saving",
+        "price": 2999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "shelves"
+    },
+    {
+        "name": "Industrial Metal Shelf",
+        "description": "Durable and stylish",
+        "price": 5999,
+        "image": "https://images.unsplash.com/photo-1616627561839-074385245ff6",
+        "category": "shelves"
+    },
+    {
+        "name": "Bookshelf with Drawers",
+        "description": "Functional and elegant",
+        "price": 7999,
+        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013",
+        "category": "shelves"
+    },
+    {
+        "name": "Corner Shelf",
+        "description": "Maximizes corner space",
+        "price": 3999,
+        "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+        "category": "shelves"
+    }
+]

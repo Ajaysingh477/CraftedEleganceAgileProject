@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Crafted Elegance</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&family=Teko:wght@400;500&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.php">Crafted Elegance</a>
+            </div>
+            <div class="nav-links">
+                <a href="index.php">Home</a>
+                <div class="dropdown">
+                    <a href="products.html" class="dropdown-trigger">Shop by Category <span class="arrow">▼</span></a>
+                    <div class="dropdown-content">
+                        <a href="products.html?category=sofas">Sofas</a>
+                        <a href="products.html?category=beds">Beds</a>
+                        <a href="products.html?category=tables">Tables</a>
+                        <a href="products.html?category=chairs">Chairs</a>
+                        <a href="products.html?category=desks">Desks</a>
+                        <a href="products.html?category=shelves">Shelves</a>
+                    </div>
+                </div>
+                <a href="about.php">About Us</a>
+                <a href="contact.php">Contact</a>
+                <div id="auth-links">
+                 
+                    <a href="login.php" id="login-link">Login</a>
+                    <a href="signup.php" id="signup-link">Sign Up</a>
+                   
+                    <a href="logout.php" id="logout-link" style="display: none;">Logout</a>
+                </div>
+            </div>
+            <div class="nav-actions">
+                <div class="search-container">
+                    <input type="text" placeholder="Search...">
+                    <button class="search-btn">🔍</button>
+                </div>
+                <button id="dark-mode-toggle" class="dark-mode-btn">🌙</button>
+                <button class="cart-btn">🛒</button>
+            </div>
+        </nav>
+    </header>
+
+    <section class="featured-products">
+        <h2>Our Products</h2>
+        <div class="filter-buttons">
+            <input type="number" id="price-filter" placeholder="Max Price (₹)">
+            <button class="filter-btn" data-category="sofas">Sofas</button>
+            <button class="filter-btn" data-category="beds">Beds</button>
+            <button class="filter-btn" data-category="tables">Tables</button>
+            <button class="filter-btn" data-category="chairs">Chairs</button>
+            <button class="filter-btn" data-category="desks">Desks</button>
+            <button class="filter-btn" data-category="shelves">Shelves</button>
+        </div>
+        <div class="product-grid">
+            
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: info@craftedelegance.in</p>
+                <p>Phone: +91 80 4567 8900</p>
+                <p>Address: 123 Furniture Market, MG Road, Bangalore - 560001</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <a href="index.php">Home</a>
+                <a href="products.html">Shop</a>
+                <a href="about.php">About Us</a>
+                <a href="contact.php">Contact</a>
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#">Instagram</a>
+                    <a href="#">Pinterest</a>
+                    <a href="#">Facebook</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Crafted Elegance. All rights reserved.</p>
+        </div>
+    </footer>
+
+ 
+    <script src="script.js"></script>
+</body>
+</html>
